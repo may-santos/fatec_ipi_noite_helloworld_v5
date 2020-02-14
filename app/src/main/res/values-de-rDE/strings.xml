@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fatec_ipi_noite_helloworld</string>
+    <string name="welcome">Willkommen bei Android App Development</string>
+    <string name="deitel_logo">Deitels Käfer hat zwei Daumen hoch</string>
+</resources>
